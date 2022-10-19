@@ -1,6 +1,8 @@
 # react-movie
 
     Responsive React Movies App With API
+    * I'm not the one who made this. This re is just my study material. 
+    * Source: https://github.com/trananhtuat/react-movie
 
 # Video tutorial
 
